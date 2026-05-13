@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: geosat
+Version: 0.0.2
+Summary: A GeoSpatial Analysis Toolkit
+Author: zhang chuanhui
+Author-email: 
+Requires-Python: >=3
+Requires-Dist: numpy
+
