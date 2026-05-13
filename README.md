@@ -1,2 +1,2 @@
-# 3D point clouds — curb,gutter detection
+# 3D point clouds to 2.5D ortho image conversion
 
